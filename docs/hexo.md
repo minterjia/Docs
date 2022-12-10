@@ -35,5 +35,4 @@ slug: /
 
 
 ## 状态
-
-![Repobeats analytics](https://repobeats.axiom.co/api/embed/ad008b2151c22e7cf734d2688befaa795d593b95.svg "Repobeats analytics image")
+![Repobeats analytics](https://repobeats.axiom.co/api/embed/41b6237476ea746ba5de5ec795e3e802eab7767c.svg "Repobeats analytics image")

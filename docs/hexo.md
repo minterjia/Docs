@@ -11,42 +11,28 @@ slug: /
 ## 快速开始
 
 ```bash
-docker run \
-  -it -d \
-  --name halo \
-  -p 8090:8090 \
-  -v ~/.halo2:/root/.halo2 \
-  -e HALO_EXTERNAL_URL=http://localhost:8090/ \
-  -e HALO_SECURITY_INITIALIZER_SUPERADMINUSERNAME=admin \
-  -e HALO_SECURITY_INITIALIZER_SUPERADMINPASSWORD=P@88w0rd \
-  halohub/halo:2.0
+热爱你来过的每一份温度
 ```
 
-以上仅作为体验使用，详细部署文档请查阅：<https://docs.halo.run/getting-started/install/docker-compose>
+热爱你来过的每一份温度：<https://hexo.run>
 
 ## 在线体验
 
-- 环境地址：<https://demo.halo.run>
-- 后台地址：<https://demo.halo.run/console>
-- 用户名：`demo`
-- 密码：`P@ssw0rd123..`
+- 热爱你来过的每一份温度：<https://hexo.run>
+- 热爱你来过的每一份温度：<https://hexo.run>
+- 热爱你来过的每一份温度：`Hexo`
+- 热爱你来过的每一份温度：`Hexo`
 
 ## 生态
 
-可访问 [awesome-halo](https://github.com/halo-sigs/awesome-halo) 查看已经适用于 Halo 2.0 的主题和插件，以及适用于 Halo
-1.x 的相关仓库。
+可访问 [热爱你来过的每一份温度](https://hexo.run) 热爱你来过的每一份温度
 
 ## 许可证
 
-[![license](https://img.shields.io/github/license/halo-dev/halo.svg?style=flat-square)](https://github.com/halo-dev/halo/blob/master/LICENSE)
+[![license](https://img.shields.io/github/license/halo-dev/halo.svg?style=flat-square)](https://hexo.run)
 
-Halo 使用 GPL-v3.0 协议开源，请遵守开源协议。
+热爱你来过的每一份温度 使用 GPL-v3.0 协议开源，请遵守开源协议。
 
-## 贡献
-
-参考 [CONTRIBUTING](https://github.com/halo-dev/halo/blob/master/CONTRIBUTING.md)。
-
-<a href="https://github.com/halo-dev/halo/graphs/contributors"><img src="https://opencollective.com/halo/contributors.svg?width=890&button=false" /></a>
 
 ## 状态
 

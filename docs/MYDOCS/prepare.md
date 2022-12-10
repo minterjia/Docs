@@ -3,6 +3,10 @@ title: 写在前面
 description: 在开始前，您需要了解的事项
 sidebar_position: 6
 ---
+>热爱你来过的每一份温度
+热爱你来过的每一份温度
+热爱你来过的每一份温度
+
 ## danger 危险   warning 危险  warning 提示  warning 注意
 
 ```bash

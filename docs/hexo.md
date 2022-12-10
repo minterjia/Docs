@@ -17,54 +17,7 @@ cd my-website
 npm run start
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### 什么是 Hexo？
->Hexo 是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。
-
-#### 安装前提
->安装 Hexo 相当简单，只需要先安装下列应用程序即可：
-
-- [Node.js](https://nodejs.org/en/) (Node.js 版本需不低于 10.13，建议使用 Node.js 12.0 及以上版本)
-- [Git](https://git-scm.com)
-
-#### 安装 Hexo
->所有必备的应用程序安装完成后，即可使用 npm 安装 Hexo。
-```
-npm install hexo-cli -g
-```
-
-#### 进阶安装和使用
->对于熟悉 npm 的进阶用户，可以仅局部安装 hexo 包。
-```
-npm install hexo
-```
-
->安装以后，可以使用以下两种方式执行 Hexo：
-
-1. `npx hexo <command>`
-1. 将 Hexo 所在的目录下的 `node_modules` 添加到环境变量之中即可直接使用 `hexo <command>`：
-```
-echo 'PATH="$PATH:./node_modules/.bin"' >> ~/.profile
-```
-
-
-#### 搭建博客具体步骤如下：
-##### 本地直接创建
+### 本地直接创建
 ```
 #创建文件夹Blog，在文件夹Blog下git bash
 
@@ -122,7 +75,7 @@ git commit -m "测试提交代码"
 git push
 ```
 
-##### vercel自动部署
+### vercel自动部署
 ```
 #git clone到本地，不用初始化
 git clone 地址

@@ -149,6 +149,7 @@ sidebar_position: 6
 ![图片alt](https://minterjia.com/upload/2022/12/favorite.jpg)
 ```
 ![图片alt](https://minterjia.com/upload/2022/12/favorite.jpg)
+![图片alt](https://minterjia.com/upload/2022/12/favorite.png)
 
 ## 字体
 ```

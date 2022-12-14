@@ -40,3 +40,6 @@ npm run start
 
 ## 状态
 ![Repobeats analytics](https://repobeats.axiom.co/api/embed/41b6237476ea746ba5de5ec795e3e802eab7767c.svg "Repobeats analytics image")
+
+
+![](https://github-readme-stats.vercel.app/api?username=Minterjia&show_icons=true&title_color=fffffc&icon_color=FFFFFF&text_color=FFFFFF&bg_color=2ec1ac)
